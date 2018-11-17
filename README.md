@@ -1,5 +1,5 @@
-# QGISsvgicons
-QGIS SVG icons 
+# QGISsvgAnimals
+QGIS SVG icons for animals
 
 ## Aerial animal (aerial_animal)
 
